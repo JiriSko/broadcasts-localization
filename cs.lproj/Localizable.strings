@@ -1,0 +1,416 @@
+/*
+  Localizable.strings
+  MobileRadio
+
+  Created by Jiří Tenora on 23/04/2024.
+*/
+
+"SHORTCUT_PLAY" = "Přehrát";
+"SHORTCUT_PAUSE" = "Pozastavit";
+
+"TOOLBAR_NOTHING_PLAYING" = "Nic nehraje";
+"TOOLBAR_STREAMING_RADIO" = "Streamování rádia";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Přehrát/Pozastavit";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Přehrát/Pozastavit";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Přepnout ztlumení";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Hlasitost";
+
+"SIDEBAR_TITLE_LIBRARY" = "Knihovna";
+"SIDEBAR_TITLE_STATIONS" = "Kolekce";
+"SIDEBAR_TITLE_RADIO" = "Rádio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Všechny stanice";
+"SIDEBAR_CATEGORY_RECENTS" = "Nedávné";
+
+"LIST_HEADER_STATION" = "Stanice";
+
+"MENU_NEW" = "Nová";
+"MENU_NEW_STATION" = "Stanice…";
+"MENU_NEW_GROUP" = "Kolekce…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nová stanice";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nová kolekce";
+
+"MENU_VIEW_AS_GRID" = "jako mřížka";
+"MENU_VIEW_AS_LIST" = "jako seznam";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Zobrazit jako mřížku";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Zobrazit jako seznam";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Zobrazit boční panel";
+"MENU_VIEW_HIDE_SIDEBAR" = "Skrýt boční panel";
+
+"MENU_HELP_GETSUPPORT" = "Kontaktovat podporu na Twitteru…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Zobrazit uvítací obrazovku…";
+
+"PLAYBACK_ERROR_STALL" = "Připojení ke stanici bylo ztraceno.";
+
+"SEARCH_PLACEHOLDER" = "Hledat";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Přidat";
+"ALERT_CANCEL" = "Zrušit";
+"ALERT_DELETE" = "Smazat";
+
+"ADD_STATION_WINDOW_TITLE" = "Přidání nové stanice";
+"EDIT_STATION_WINDOW_TITLE" = "Úprava stanice";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Název";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://cesta/ke/streamu";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Vybrat obrázek";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Přidání nové kolekce";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Úprava kolekce";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Mé kolekce";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Upravit";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Smazat kolekci";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Sdílet";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Upravit";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Smazat stanici";
+"STATION_CONTEXT_MOVE" = "Přesunout do kolekce";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Smazat \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Opravdu chcete smazat tuto kolekci a všechny stanice v ní?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Smazat \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Opravdu chcete smazat tuto stanici?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Žádné stanice";
+
+"WELCOME_COPY" = "Vítejte v Broadcasts! Pokud chcete, můžeme začít vaši knihovnu s některými přednastavenými stanicemi z našeho domova.\n\nNebo, pokud chcete, můžete přidat své vlastní stanice ručně nebo vybrat z tisíců v adresáři.";
+
+"WELCOME_UPSELL" = "Vítejte v Broadcasts! V této bezplatné verzi máme některé přednastavené stanice z našeho domova, se kterými můžeme začít vaši knihovnu.\n\nNebo, pokud chcete, můžete přidat své vlastní stanice ručně nebo vybrat z tisíců v adresáři.";
+
+"WELCOME_ADD_PRESETS" = "Přidat přednastavené stanice";
+"WELCOME_NO_THANKS" = "Ne, děkuji";
+
+"GENERATED_COLLECTION_TITLE" = "Mé kolekce";
+
+"UPSELL_COPY" = "Díky, že používáte Broadcasts!\n\nMůžete rozšířit limit knihovny Broadcasts pomocí nákupu v aplikaci, pokud chcete.\n\nNebo, pokud chcete, můžete používat a upravovat až 5 stanic zdarma!";
+"UPSELL_BUY" = "Koupit (%@)";
+"UPSELL_NOT_AVAILABLE" = "Není k dispozici";
+"UPSELL_RESTORE" = "Obnovit nákupy";
+"UPSELL_NO_THANKS" = "Ne, děkuji";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nová kolekce";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Přidat stanici";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Ukázat kolekce";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Zobrazit/skrýt boční panel";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Přepnout zobrazení";
+
+"IMAGE_WELL_REMOVE" = "Odebrat";
+"IMAGE_WELL_PASTE" = "Vložit";
+"IMAGE_WELL_COPY" = "Kopírovat";
+
+"CARPLAY_EMPTY_LIBRARY" = "Žádné kolekce";
+"CARPLAY_ALL_STATIONS" = "Všechny stanice";
+
+"MAC_ADD_STATION_BUTTON" = "Přidat stanici";
+"MAC_EDIT_STATION_BUTTON" = "Upravit stanici";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Přidat kolekci";
+"MAC_EDIT_COLLECTION_BUTTON" = "Upravit kolekci";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Procházení";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Země";
+"STATION_DIRECTORY_STATIONS" = "%@ stanice";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ stanic";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Žádné připojení";
+"STATION_DIRECTORY_CONNECTING" = "Načítání…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Přidat ručně";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Hotovo";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Hledat v zemích";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Hledat ve stanicích";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Přidat ručně";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Přidat z adresáře";
+
+"LIBRARY_STATE_UPLOADING" = "Nahrávání…";
+"LIBRARY_STATE_DOWNLOADING" = "Stahování…";
+"LIBRARY_STATE_PREPARING" = "Příprava…";
+"LIBRARY_STATE_READY" = "Aktuální";
+"LIBRARY_STATE_MIGRATING" = "Migrování…";
+"LIBRARY_STATE_LOCALONLY" = "Pouze místní";
+
+"TV_TAB_ALL_STATIONS" = "Všechny stanice";
+"TV_TAB_RECENTS" = "Naposledy přehráváno";
+"TV_TAB_COLLECTIONS" = "Kolekce";
+
+"TV_NO_LIBRARY_MESSAGE" = "Spusťte Bradcasts knihovnu na iPhonu, iPadu nebo Macu a synchronizuje se s Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Právě hraje";
+"WATCH_SOURCE_RECENTS" = "Nedávné";
+"WATCH_SOURCE_COLLECTIONS" = "Kolekce";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchronizuje se…";
+
+"ALERT_IMPORT" = "Importovat";
+"IMPORT_TITLE" = "Importovat \"%@\"?";
+"IMPORT_BODY" = "Tato sdílená kolekce obsahuje %ld stanic.";
+
+"MOVE_DIALOG_TITLE" = "Přesunout \"%@\"";
+"MOVE_DIALOG_BODY" = "Vyberte kolekci, do které chcete tuto stanici přesunout.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Chyba: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Nepřihlášen";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Limit překročen";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Prohlížení";
+"SIDEBAR_TITLE_DIRECTORY" = "Adresář";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internetové rádio";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Nepojmenovaná stanice";
+
+"WELCOME_BUTTON_CONTINUE" = "Pokračovat";
+"WELCOME_BUTTON_GETSTARTED" = "Začít";
+
+"WELCOME_NEWFEATURES_TITLE" = "Nové funkce";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Moderní vzhled";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Časovač vypnutí";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay ovládání";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Méně rušivé upozornění";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Přirozené škálování pixelů";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Podpora Apple Silicon";
+
+"MENU_CONTROLS" = "Ovládání";
+"MENU_CONTROLS_PLAY" = "Přehrát";
+"MENU_CONTROLS_PAUSE" = "Pozastavit";
+"MENU_CONTROLS_NEXT" = "Další";
+"MENU_CONTROLS_PREVIOUS" = "Předchozí";
+
+"SLEEP_TIMER_MENU" = "Časovač vypnutí";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Vypnuto";
+"SLEEP_TIMER_MENU_1" = "1 minuta";
+"SLEEP_TIMER_MENU_15" = "15 minut";
+"SLEEP_TIMER_MENU_30" = "30 minut";
+"SLEEP_TIMER_MENU_60" = "60 minut";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "Název";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "Adresa URL";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "Obrázek";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Vybrat obrázek";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Limit knihovny dosažen. Pro přidání dalších stanic je nutné provést upgrade.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Předchozí";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Další";
+
+"ALERT_UPGRADE" = "Upgrade";
+
+"MENU_APPLICATION_UPGRADE" = "Upgradovat na plnou verzi…";
+
+/* V2.2 */
+
+"INSPECTOR_NO_STATION" = "Není vybrána žádná stanice";
+
+"INSPECTOR_SECTION_DETAILS" = "Detaily";
+"INSPECTOR_SECTION_TAGS" = "Štítky";
+"INSPECTOR_SECTION_CODEC" = "Kodek";
+"INSPECTOR_SECTION_BITRATE" = "Bitrate";
+"INSPECTOR_SECTION_HOMEPAGE" = "Domovská stránka";
+
+"INSPECTOR_ADD_TO_LIBRARY" = "Přidat do knihovny";
+"INSPECTOR_ADD_TO_COLLECTION" = "Přidat do…";
+"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Přidáno";
+"INSPECTOR_SECTION_TAGS_NONE" = "Žádné štítky";
+
+"PREVIEW_BUTTON_PREVIEW" = "NÁHLED";
+
+"DIRECTORY_OTHER" = "Ostatní";
+
+/* V3.0 */
+
+/* Preferences */
+"PREFERENCES_TITLE" = "Nastavení";
+
+"MENU_PREFERENCES" = "Předvolby…";
+"MENU_PREFERENCES_VENTURA" = "Nastavení…";
+
+"PREFERENCES_GENERAL_TITLE" = "Obecné";
+
+"PREFERENCES_GENERAL_VIEW_HEADER" = "Zobrazení";
+"PREFERENCES_GENERAL_LIST_SIZE_HEADER" = "Velikost položky seznamu:";
+"PREFERENCES_GENERAL_LIST_SIZE_HEADER_MAC" = "Velikost položky seznamu:";
+
+"PREFERENCES_GENERAL_LIST_SIZE_REGULAR" = "Normální";
+"PREFERENCES_GENERAL_LIST_SIZE_LARGE" = "Velká";
+"PREFERENCES_GENERAL_LIST_SIZE_EXTRA_LARGE" = "Extra velká";
+
+"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "Zvětšit obrázek při najetí";
+"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "Povolit zbarvení obrázku";
+
+"PREFERENCES_SYNC_TITLE" = "Synchonizace";
+
+"PREFERENCES_SYNC_ICLOUD" = "iCloud";
+"PREFERENCES_SYNC_STATUS_SYNCED_NOW" = "Aktualizováno před chvílí";
+"PREFERENCES_SYNC_STATUS_SYNCING" = "Synchronizuje se…";
+"PREFERENCES_SYNC_STATUS_SYNCED_NEVER" = "Nesynchronizováno s iCloud";
+"PREFERENCES_SYNC_OPEN_SETTINGS" = "Otevřít nastavení iCloud";
+"PREFERENCES_SYNC_STATUS_SYNCED_TIME" = "Poslední aktualizace: %@";
+
+"PREFERENCES_SYNC_SYNC_NOW" = "Synchronizovat";
+"PREFERENCES_SYNC_ADVANCED" = "Pokročilé";
+"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Nahrát…";
+"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Stáhnout…";
+
+"PREFERENCES_GENERAL_SUPPORT_HEADER" = "Nápověda & podpora";
+"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "E-mailová podpora";
+"PREFERENCES_GENERAL_SUPPORT_TWITTER" = "Tweet @GetBroadcasts";
+
+"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Naše aplikace";
+"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "Zobrazit více v App Store";
+
+"PREFERENCES_GENERAL_PASTEL_LINK" = "Pastel"; /* Do not localize */
+
+"PREFERENCES_GENERAL_ADVANCED" = "Pokročilé";
+"PREFERENCES_GENERAL_NETWORK_HEADER" = "Síť";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "Timeout adresáře";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "Timeout adresáře:";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "15 sekund";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "30 sekund";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "60 sekund";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 sekund";
+
+"PREFERENCES_GENERAL_HARDWARE_HEADER" = "Zařízení";
+"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Povolit herní ovladač";
+"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "Zobrazit Právě hraje na externích displejích";
+
+/* Mini Player */
+"MENU_MINIPLAYER" = "Zobrazit mini přehrávač";
+"MINI_PLAYER_TITLE" = "Mini přehrávač";
+"MENU_MINIPLAYER_FLOAT" = "Vždy na vrchu";
+
+/* Help & Support */
+"MENU_HELP_GETSUPPORT_EMAIL" = "Kontaktovat podporu…";
+
+"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "Sdílet…";
+
+/* Search */
+"SEARCH_SEARCH_PLACEHOLDER" = "Hledat";
+"SEARCH_BROWSER" = "Všechny stanice";
+"SEARCH_YOUR_LIBRARY" = "Vaše knihovna";
+
+"SEARCH_MENU_CACHE" = "Načíst všechny stanice";
+"SEARCH_MENU_SEARCH_TAGS" = "Hledat ve štítcích";
+
+/* Misc */
+"COLLECTIONS_LIST_CLEAR_RECENTS" = "Vymazat nedávné";
+"PREVIEW_BUTTON_PREVIEW_NORMAL" = "Náhled";
+
+"MENU_VISUALIZER" = "Vizualiér";
+"FLUID_NOW_PLAYING_ACCESSIBILITY_CLOSE" = "Zavřít obrazovku Právě hraje";
+
+"COLLECTIONS_SEARCH_PLACEHOLDER" = "Hledat v kolekcích";
+"STATIONS_SEARCH_PLACEHOLDER" = "Hledat v %@";
+
+"EDIT_COLLECTION_BUTTON_SHORT" = "Hotovo";
+"ADD_COLLECTION_BUTTON_SHORT" = "Hotovo";
+
+"EDIT_STATION_BUTTON_SHORT" = "Hotovo";
+"ADD_STATION_BUTTON_SHORT" = "Hotovo";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY_BROWSE" = "Procházet";
+
+/* Shazam */
+
+"PREFERENCES_GENERAL_SHAZAM_HEADER" = "Shazam";
+"PREFERENCES_GENERAL_SHAZAM_HEADER_BETA" = "Shazam (beta)";
+"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Povolit Shazam";
+"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Shazam používá mikrofon k poskytnutí metadat pro hudbu, která hraje přes reproduktory nebo poblíž.";
+
+"VIEW_ON_APPLE_MUSIC" = "Zobrazit v Apple Music";
+"NOWPLAYING_SHAZAM" = "Hledat přes Shazam";
+"SHAZAM_VIEW_HISTORY" = "Historie";
+"SHAZAM_HISTORY_TITLE" = "Historie";
+"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Hledat v historii";
+
+/* Artwork Picker */
+"ARTWORK_EDITOR_HEADER_TEXT" = "Text";
+"ARTWORK_EDITOR_HEADER_STYLE" = "Styl";
+
+"ARTWORK_PICKER_PICK_PHOTO" = "Fotky";
+"ARTWORK_PICKER_PICK_FILE" = "Soubor";
+"ARTWORK_PICKER_PICK_TEXT" = "Text";
+"ARTWORK_PICKER_PICK_PRESET" = "Předvolba";
+
+"ARTWORK_PICKER_STYLE_PASTEL" = "Pastel";
+"ARTWORK_PICKER_STYLE_VIBRANT" = "Vibrant";
+
+"ARTWORK_EDITOR_TITLE_TEXT" = "Text";
+"ARTWORK_EDITOR_TITLE_PRESET" = "Předvolba";
+"ARTWORK_EDITOR_TITLE_BACK" = "Zpět";
+"ARTWORK_EDITOR_TITLE_DONE" = "Vybrat";
+
+"ARTWORK_PICKER_HEADING_MORE" = "Více";
+
+"ARTWORK_PICKER_BUTTONS_DONE" = "Hotovo";
+"ARTWORK_PICKER_BUTTONS_CANCEL" = "Zrušit";
+"ARTWORK_PICKER_TITLE" = "Vybrat obrázek";
+
+/* Playback Resume */
+
+"PREFERENCES_GENERAL_PLAYBACK_HEADER" = "Přehrávání";
+"PREFERENCES_GENERAL_RESUME_PLAYBACK" = "Pokračovat v přehrávání při spuštění";
+"PREFERENCES_GENERAL_RESUME_NEVER" = "Vypnuto";
+"PREFERENCES_GENERAL_RESUME_CARPLAY" = "Při používání CarPlay";
+"PREFERENCES_GENERAL_RESUME_ALWAYS" = "Vždy";
+
+/* Credits */
+
+"PREFERENCES_GENERAL_ACKNOWLEDGEMENTS" = "Uznání";
+
+/* IAP */
+
+"UPSELL_V3_TITLE" = "Díky, že používáte Broadcasts!";
+"UPSELL_V3_COPY" = "Vaše knihovna Broadcasts může zdarma uchovávat až pět stanic. Tento limit můžete odstranit nákupem v aplikaci, pokud chcete.\n\nNebo, pokud chcete, smažte některé stanice nebo kolekce, abyste uvolnili místo.";
+"UPSELL_V3_FAMILY" = "Tento nákup podporuje rodinné sdílení";
+
+/* Volume Menu */
+
+"CONTROLS_VOLUME_UP" = "Zvýšit hlasitost";
+"CONTROLS_VOLUME_DOWN" = "Snížit hlasitost";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Nápověda pro Broadcasts";
+"HELP_TOC_TITLE" = "Nápověda";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Hledat";
+"SEARCH_RECENTS_TITLE" = "Naposledy hledáno";
+"SEARCH_RECENTS_CLEAR" = "Vymazat poslední hledání";
+"SEARCH_RECENTS_NO_RECENTS" = "Žádná poslední hledání";
+"SEARCH_RESULTS" = "Výsledky hledání";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Žádné stanice";
+"ONBOARDING_NO_STATIONS_COPY" = "Přidejte své oblíbené stanice z prohlížeče stanic nebo začněte se vzorovými stanicemi.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Přidat vzorové stanice";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Sdílet";
+
+/* Assistive Mode */
+
+"PREFERENCES_GENERAL_ACCESSIBILITY_HEADER" = "Přístupnost";
+"ASSISTIVE_DESCRIPTION" = "Asistivní režim je zjednodušené uživatelské rozhraní pro Broadcasts, které je pouze pro čtení, a je navržené pro použití s funkcemi přístupnosti, jako je asistenční přístup.\n\nPovolení tohoto režimu vyžaduje restart Broadcasts.";
+"ASSISTIVE_ENTER" = "Vstoupit do asistivního režimu";
+"ASSISTIVE_EXIT" = "Ukončit asistivní režim";
+"ASSISTIVE_DIALOG_TITLE" = "Asistivní režim";
+"ASSISTIVE_DIALOG_NEXT_REGULAR" = "Broadcasts se nyní ukončí. Při dalším spuštění bude používat standardní uživatelské rozhraní.";
+"ASSISTIVE_DIALOG_NEXT_ASSISTIVE" = "Broadcasts se nyní ukončí. Při dalším spuštění bude používat asistivní režim.";
+"ASSISTIVE_DIALOG_QUIT" = "Ukončit";
+"ASSISTIVE_TOOLBAR_EXIT" = "Ukončit";
