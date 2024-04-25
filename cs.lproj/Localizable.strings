@@ -63,7 +63,7 @@
 "ADD_COLLECTION_WINDOW_TITLE" = "Přidání nové kolekce";
 "EDIT_COLLECTION_WINDOW_TITLE" = "Úprava kolekce";
 
-"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Mé kolekce";
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Má kolekce";
 
 "SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Upravit";
 "SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Smazat kolekci";
@@ -88,7 +88,7 @@
 "WELCOME_ADD_PRESETS" = "Přidat přednastavené stanice";
 "WELCOME_NO_THANKS" = "Ne, děkuji";
 
-"GENERATED_COLLECTION_TITLE" = "Mé kolekce";
+"GENERATED_COLLECTION_TITLE" = "Má kolekce";
 
 "UPSELL_COPY" = "Díky, že používáte Broadcasts!\n\nMůžete rozšířit limit knihovny Broadcasts pomocí nákupu v aplikaci, pokud chcete.\n\nNebo, pokud chcete, můžete používat a upravovat až 5 stanic zdarma!";
 "UPSELL_BUY" = "Koupit (%@)";
